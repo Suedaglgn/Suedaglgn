@@ -1,5 +1,5 @@
 # Hi, I’m @Suedaglgn
-- :computer: I'm currently working at Crypttech Cyber Security Intelligence as an R&D Engineer.
+- :computer: I work at P.I. Works, Inc. as a Machine Learning and Prototype Engineer.
 - 👀 I’m interested in data science and engineering.
 - 🌱 I’m currently learning cloud technologies.
 - :bookmark_tabs: I write articles on [Medium](https://medium.com/@suedaglgn) 
