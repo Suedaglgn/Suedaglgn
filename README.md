@@ -1,7 +1,7 @@
 # Hi, I’m @Suedaglgn
-- :computer: I work at P.I. Works, Inc. as a Machine Learning and Prototype Engineer.
-- 👀 I’m interested in data science and engineering.
-- 🌱 I’m currently learning cloud technologies.
+- 💻 I'm a Senior AI Engineer at Orion Innovation, specializing in voice assistants, AI-driven applications, and prompt engineering.
+- 🧠 I have a strong passion for data science, AI engineering, and cloud technologies, particularly working with OpenAI, AWS, and real-time AI solutions.
+- 🌱 Currently, I’m enhancing my skills in cloud technologies and exploring advanced NLP, agentic AI, and generative AI models.
 - :bookmark_tabs: I write articles on [Medium](https://medium.com/@suedaglgn) 
 - 📫 How to reach me **suedaglgn@gmail.com**
 
